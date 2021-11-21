@@ -1,4 +1,4 @@
-# house-price-elt-pipeline
+# house-price-etl-pipeline
 This project contains the process from building a web crawler to extract the raw data of house price to create ETL pipelines using Google Could Platform services. 
 
 ### Basic flow of the ETL pipeline
